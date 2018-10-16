@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="600"
+menuWidth="310"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0x000"
+txtOverColor="0x0000ff"
+txtOutColor="0x000">
+  <item title1='Comparison of Business Entities' href="" p="fs"/>
+  <item title1="Disability Income Insurance for Business Owners" href="" p="fs1"/>
+  <item title="Tax implications of disability income insurance" href="" p="fs2"/>
+  <item title="Tax implications of long term care insurance" href="" p="fs3"/>
+  <item title="Business planning reference guide" href="" p="fs4"/>
+  <item title='Buy-Sell Planning: Advisors&apos; planning concepts' href="" p="fs5"/>
+  <item title='Qualified Sick Pay Plan sample documents' href="" p="fs6"/>
+  <item title1='Financial Software Choices' href="" p="fs7"/>
+  <item title='Key Employee Value Calculator' href="" p="fs8"/>
+</content>

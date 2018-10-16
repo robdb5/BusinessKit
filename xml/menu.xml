@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu menuOpen="7" moveOnMouseOver="false">
+	<item Ititle="Training" IcontentType="image/swf" IcontentData="images/training-60.png"  IcontentData1="panel_0.swf"/>
+	<item Ititle="Approach and Setting the Appointment"  IcontentType="image/swf" IcontentData="images/approach-60.png" IcontentData1="panel_1.swf"/>
+	<item Ititle="Fact Finding" IcontentType="image/swf" IcontentData="images/fact-60.png" IcontentData1="panel_2.swf"/>
+	<item Ititle="Case Analysis"  IcontentType="image/swf" IcontentData="images/ca-60.png" IcontentData1="panel_3.swf"/>
+	<item Ititle="Presentation and Application" IcontentType="image/swf" IcontentData="images/presentation-60.png" IcontentData1="panel_4.swf"/>
+	<item Ititle="Client Relationship Management" IcontentType="image/swf" IcontentData="images/client-60.png" IcontentData1="panel_5.swf"/>
+	<item IcontentType2="image/swf" IcontentData2="panel_main.swf"/>
+	</menu>
+

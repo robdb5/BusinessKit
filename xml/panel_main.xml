@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="500"
+menuWidth="315"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0xffffff"
+txtOverColor="0x0000ff"
+txtOutColor="0xffffff">
+  <item title="Business Valuation" href="" p="fs"/>
+  <item title="Buy-Sell Agreements" href="" p="fs1"/>
+  <item title="Choosing a Successor" href="" p="fs2"/>
+  <item title="Key Employees" href="" p="fs3"/>
+  <item title="Retirement Planning" href="" p="fs4"/>
+</content>

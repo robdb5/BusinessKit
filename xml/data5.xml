@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="700"
+menuWidth="365"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0x000000"
+txtOverColor="0x0000ff"
+txtOutColor="0x000">
+  <item title="Business Boosters: Good decisions in tough economic times" href="" p="fs"/>
+  <item title="Business Boosters: 10 succession planning missteps" href="" p="fs1"/>
+  <item></item>
+  <item title1='MassMutual Business Owner Perspectives Study' href="" p="fs2"/>
+  <item title='Women Business Owner Perspectives Study brochure' href="" p="fs3"/>
+  <item title='Hispanic Business Owner Perspectives Study brochure' href="" p="fs4"/>
+  <item title='African American Business Owner Perspectives Study brochure' href="" p="fs5"/>
+  <item title='Chinese Business Owner Perspectives Study brochure' href="" p="fs6"/>
+  <item title='Korean Business Owner Perspectives Study brochure' href="" p="fs7"/>
+  <item title='Asian Indian Business Owner Perspectives Study brochure' href="" p="fs8"/>
+</content>

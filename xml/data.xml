@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="500"
+menuWidth="360"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0x000"
+txtOverColor="0x0000ff"
+txtOutColor="0x000">
+  <item title1='Tips and scripts for talking with business owners' href="" p="fs"/>
+  <item title1='Agent Action Plan' href="" p="fs1"/>
+  <item title='Getting Down To Business agency presentation' href="" p="fs2"/>
+  <item title1='The Business Journal event sponsorship planning guide' href="" p="fs3"/>
+  <item title1='Role Plays To Build Your Practice in the Business Market' href="" p="fs4"/>
+  <item title1='Certified Family Business Specialist Certification' href="" p="fs5"/>
+</content>
+
+

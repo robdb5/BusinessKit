@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="475"
+menuWidth="315"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0x000"
+txtOverColor="0x0000ff"
+txtOutColor="0x000">
+  <item title="Business protection options grid" href="" p="fs"/>
+  <item title="Key employee retention options grid" href="" p="fs1"/>
+  <item title="Buy-Sell agreements brochure" href="" p="fs2"/>
+  <item title="Buy-Sell Agreement White Paper" href="" p="fs3"/>
+  <item title="Executive Bonus client guide" href="" p="fs4"/>
+  <item title="Business Overhead Expense brochure" href="" p="fs5"/>
+  <item title="Qualified sick pay plan brochure" href="" p="fs6"/>
+  <item title="Split Dollar plans brochure" href="" p="fs7"/>
+  <item title="Nonqualified Deferred Compensation Brocure" href="" p="fs8"/>
+  <item title="SEP IRA brochure" href="" p="fs9"/>
+  <item></item>
+  <item title="QuickClose Lender brochure" href="" p="fs10"/>
+  <item title="QuickClose Business Owner brochure" href="" p="fs11"/>
+  <item title="QuickClose White Paper" href="" p="fs12"/>
+  <item title="QuickClose Lender presentation" href="" p="fs13"/>
+  
+</content>

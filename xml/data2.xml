@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="500"
+menuWidth="315"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0x000"
+txtOverColor="0x0000ff"
+txtOutColor="0x000">
+  <item title1="Business Value Diagnostic Tool" href="" p="fs"/>
+ <item title="Business Owner Fact Finder" href="" p="fs1"/>
+ <item title="ChBEP sample case" href="" p="fs2"/>
+ <item></item>
+ <item title1="Business overhead expense checklist" href="" p="fs3"/>
+  <item title1="IBETE Flyer" href="" p="fs4"/>
+</content>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content 
+menuHeight="500"
+menuWidth="335"
+scrollStagePOS="3"
+scrollSpeed=".1"
+bgColor="0xffffff" 
+overColor="0xffffff" 
+lineColor="0xffffff" 
+txtColor="0x000"
+txtOverColor="0x0000ff"
+txtOutColor="0x000">
+  <item title='Agent capabilities brochure' href="" p="fs"/>
+  <item title="Top 10 questions For business owners" href="" p="fs1"/>
+  <item title1='The successful business owner' href="" p="fs2"/>
+  <item title1='Seeing beyond the risks' href="" p="fs3"/>
+  <item title="Prospecting questions to qualify &amp; engage plan sponsors" href="" p="fs4"/>
+<item></item>
+  <item title="BusinessStages analysis tool" href="" p="fs5"/>
+  <item title1="BusinessStages Workplan" href="" p="fs6"/>
+  <item title="BusinessStages producer guide" href="" p="fs7"/>
+<item></item>
+  <item title="Scorecard" href="" p="fs8"/>
+  <item title="Seminar Evaluation" href="" p="fs9"/>
+  <item title="Consultant bio sheet" href="" p="fs10"/>
+  <item title='Overview brochure' href="" p="fs11"/>
+</content>
